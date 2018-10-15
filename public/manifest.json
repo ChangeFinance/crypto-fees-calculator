@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Bitcoin Fee Calculator",
+  "name": "Calculate how much you pay in fees when you buy Bitcoin",
   "icons": [
     {
       "src": "favicon.ico",
