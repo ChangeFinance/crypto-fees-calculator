@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 
-import { Row, Col, Input } from 'react-materialize';
+import { Row } from 'react-materialize';
 
 import Header from './Header';
+
+import './Calculator.css';
 
 import 'materialize-css/dist/css/materialize.min.css'
 
@@ -11,8 +13,13 @@ class Calculator extends Component {
     return (
       <div className="container">
         <Header />
-        <Row>
-          <Input placeholder="Placeholder" s={6} label="First Name" />
+        <Row className="fees">
+          <div class="row">
+            <div class="currency input-field col s8 offset-s2">
+              <input type="number" class="validate" value={this.amount} />
+              <strong>BTC</strong>
+            </div>
+          </div>
         </Row>
       </div>
     );
