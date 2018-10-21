@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ripple",
+    "ticker": "XRP"
+  },
+  {
+    "name": "Litecoin",
+    "ticker": "LTC"
+  },
+  {
+    "name": "Bitcoin",
+    "ticker": "BTC"
+  },
+  {
+    "name": "Ethereum",
+    "ticker": "ETH"
+  },
+  {
+    "name": "Monero",
+    "ticker": "XMR"
+  }
+]

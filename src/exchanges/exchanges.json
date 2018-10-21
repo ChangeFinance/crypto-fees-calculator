@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Change",
+    "link": "https://getchange.com/app",
+    "fees": {
+      "buy": 0
+    }
+  },
+  {
+    "name": "Coinbase",
+    "fees": {
+      "buy": 0.01
+    }
+  }
+]

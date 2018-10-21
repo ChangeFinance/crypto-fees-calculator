@@ -2501,6 +2501,13 @@ crypto-browserify@^3.11.0:
     randombytes "^2.0.0"
     randomfill "^1.0.3"
 
+crypto-price@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/crypto-price/-/crypto-price-0.0.6.tgz#9e55e57e7e477ab2ece1a1c30e90a73dc77228cd"
+  integrity sha512-GQFAnyUxS/NsEB9NyqNIvFn3to/bJR3BtNBK3+qNUL6EHUd1UM3z3wo83SaABpgjj2RTpSheRIXtUWwTsJqmig==
+  dependencies:
+    node-fetch "^2.1.2"
+
 css-color-names@0.0.4, css-color-names@^0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/css-color-names/-/css-color-names-0.0.4.tgz#808adc2e79cf84738069b646cb20ec27beb629e0"
@@ -6165,6 +6172,11 @@ no-case@^2.2.0:
   integrity sha512-rmTZ9kz+f3rCvK2TD1Ue/oZlns7OGoIWP4fc3llxxRXlOkHKoWPPWJOfFYpITabSow43QJbRIoHQXtt10VldyQ==
   dependencies:
     lower-case "^1.1.1"
+
+node-fetch@^2.1.2:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.2.0.tgz#4ee79bde909262f9775f731e3656d0db55ced5b5"
+  integrity sha512-OayFWziIxiHY8bCUyLX6sTpDH8Jsbp4FfYd1j1f7vZyfgkcOnAyM4oQR16f8a0s7Gl/viMGRey8eScYk4V4EZA==
 
 node-forge@0.7.5:
   version "0.7.5"
