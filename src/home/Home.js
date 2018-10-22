@@ -17,6 +17,9 @@ class Home extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      selectedCrypto: {
+        ticker: 'BTC'
+      },
       amount: 0
     };
   }
