@@ -1,6 +1,6 @@
 body {
-  background: url("bg.png") no-repeat;
-  background-size: contain;
+  background: url("bg.png") repeat;
+  background-size: cover;
 }
 
 .App {

@@ -17,9 +17,6 @@ class Home extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      selectedCrypto: {
-        ticker: 'BTC'
-      },
       amount: 0
     };
   }
@@ -83,7 +80,9 @@ class Home extends Component {
                 <strong>{this.state.selectedCrypto.ticker}</strong>
               </div>
               :
-              <p>Please select a cryptocurrency above</p>
+              <div className="col s8 offset-s2">
+                <p>Select a cryptocurrency to start <span role="img" aria-labelledby="money-with-wings">💸</span></p>
+              </div>
             }
           </div>
 
