@@ -7,9 +7,59 @@
     }
   },
   {
-    "name": "Coinbase",
+    "name": "Cex.io",
+    "link": "https://cex.io",
+    "fees": {
+      "buy": 0.002
+    }
+  },
+  {
+    "name": "Poloniex",
+    "link": "https://poloniex.com",
+    "fees": {
+      "buy": 0.002
+    }
+  },
+  {
+    "name": "Bitstamp",
+    "link": "https://www.bitstamp.net",
+    "fees": {
+      "buy": 0.0025
+    }
+  },
+  {
+    "name": "Kraken",
+    "link": "https://www.kraken.com",
+    "fees": {
+      "buy": 0.0026
+    }
+  },
+  {
+    "name": "Gemini",
+    "link": "https://gemini.com",
     "fees": {
       "buy": 0.01
+    }
+  },
+  {
+    "name": "Coinbase",
+    "link": "https://www.coinbase.com",
+    "fees": {
+      "buy": 0.0149
+    }
+  },
+  {
+    "name": "Revolut",
+    "link": "https://www.revolut.com",
+    "fees": {
+      "buy": 0.0150
+    }
+  },
+  {
+    "name": "Coinmama",
+    "link": "https://www.coinmama.com",
+    "fees": {
+      "buy": 0.06
     }
   }
 ]

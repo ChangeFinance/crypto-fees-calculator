@@ -15,6 +15,15 @@
   justify-content: center;
   flex-direction: row;
   align-content: space-around;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 600px) {
+
+  .cryptos button {
+    margin: 25px;
+  }
+
 }
 
 .cryptos button {

@@ -14,9 +14,5 @@
   {
     "name": "Ethereum",
     "ticker": "ETH"
-  },
-  {
-    "name": "Monero",
-    "ticker": "XMR"
   }
 ]

@@ -95,8 +95,8 @@ class Home extends Component {
                 <Col s={4}>
                   <span>Fees</span>
                 </Col>
-                <Col s={4}>
-                  <span>Worth in Euro</span>
+                <Col s={5} m={4}>
+                  <span>Fees in Euro</span>
                 </Col>
               </Row>
 
