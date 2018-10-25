@@ -1,9 +1,11 @@
 {
-  "name": "crypto-fee-calculator",
+  "name": "crypto-fees-calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ChangeFinance.github.io/crypto-fees-calculator/",
   "dependencies": {
     "crypto-price": "^0.0.6",
+    "gh-pages": "^2.0.1",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
@@ -14,6 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
