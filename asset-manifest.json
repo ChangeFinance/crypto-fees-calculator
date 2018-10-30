@@ -1,7 +1,7 @@
 {
   "main.css": "/crypto-fees-calculator/static/css/main.fd8634ce.chunk.css",
-  "main.js": "/crypto-fees-calculator/static/js/main.f1e880ea.chunk.js",
-  "main.js.map": "/crypto-fees-calculator/static/js/main.f1e880ea.chunk.js.map",
+  "main.js": "/crypto-fees-calculator/static/js/main.4a95afa6.chunk.js",
+  "main.js.map": "/crypto-fees-calculator/static/js/main.4a95afa6.chunk.js.map",
   "static/css/1.997ef8f1.chunk.css": "/crypto-fees-calculator/static/css/1.997ef8f1.chunk.css",
   "static/js/1.efe36d57.chunk.js": "/crypto-fees-calculator/static/js/1.efe36d57.chunk.js",
   "static/js/1.efe36d57.chunk.js.map": "/crypto-fees-calculator/static/js/1.efe36d57.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.fd8634ce.chunk.css.map": "/crypto-fees-calculator/static/css/main.fd8634ce.chunk.css.map",
   "static/css/1.997ef8f1.chunk.css.map": "/crypto-fees-calculator/static/css/1.997ef8f1.chunk.css.map",
   "index.html": "/crypto-fees-calculator/index.html",
-  "precache-manifest.d57d9aeb8ff0a59c9af24072432d25f9.js": "/crypto-fees-calculator/precache-manifest.d57d9aeb8ff0a59c9af24072432d25f9.js",
+  "precache-manifest.3e8d473f53bc20af7a8a7b8db4240234.js": "/crypto-fees-calculator/precache-manifest.3e8d473f53bc20af7a8a7b8db4240234.js",
   "service-worker.js": "/crypto-fees-calculator/service-worker.js"
 }

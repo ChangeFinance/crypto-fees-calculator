@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f1e880ea8ea415ad3dd6",
+    "revision": "4a95afa61cb8cf8f02f8",
     "url": "/crypto-fees-calculator/static/css/main.fd8634ce.chunk.css"
   },
   {
-    "revision": "f1e880ea8ea415ad3dd6",
-    "url": "/crypto-fees-calculator/static/js/main.f1e880ea.chunk.js"
+    "revision": "4a95afa61cb8cf8f02f8",
+    "url": "/crypto-fees-calculator/static/js/main.4a95afa6.chunk.js"
   },
   {
     "revision": "efe36d570ce81c50ad4f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/crypto-fees-calculator/static/js/runtime~main.21dbdd16.js"
   },
   {
-    "revision": "a033acee4f5da1a8791c37e69562e40d",
+    "revision": "c32e6c595019680c96dbde4e38e4ac27",
     "url": "/crypto-fees-calculator/index.html"
   }
 ];

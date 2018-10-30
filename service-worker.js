@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/crypto-fees-calculator/precache-manifest.d57d9aeb8ff0a59c9af24072432d25f9.js"
+  "/crypto-fees-calculator/precache-manifest.3e8d473f53bc20af7a8a7b8db4240234.js"
 );
 
 workbox.clientsClaim();
